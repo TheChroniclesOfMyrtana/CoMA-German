@@ -95,7 +95,7 @@
   "DIA_Sunder_QA401_RightPlace_Here_15_01": "Hier?",
   "DIA_Sunder_QA401_RightPlace_Here_03_02": "Ja, genau hier. Siehst du das kleine Loch da? Da muss uns in den Tunnel führen, in dem diese Ratten sich verstecken.",
   "DIA_Sunder_QA401_RightPlace_Here_03_03": "Ich habe eine Spruchrollen Verwandlung in eine Fleischwanze dabei. Du gehst hinein, siehst dich um und kommst wieder raus. Ziemlich gute Idee, hm?",
-  "DIA_Sunder_QA401_RightPlace_Sure_15_01": "Du bist dir nichtmal sicher, ob die Tunnel miteinander verbunden sind?",
+  "DIA_Sunder_QA401_RightPlace_Sure_15_01": "Du bist dir nicht mal sicher, ob die Tunnel miteinander verbunden sind?",
   "DIA_Sunder_QA401_RightPlace_Sure_03_02": "Nun, sie müssen irgendwie untereinander verbunden sein ...",
   "DIA_Sunder_QA401_RightPlace_Remember_15_01": "Was muss ich mir merken?",
   "DIA_Sunder_QA401_RightPlace_Remember_03_02": "Das wichtigste. Komm nicht unter ihre Füße oder sie werden sich zertreten. Versuch nach an Wänden, Kisten oder Fässern zu bleiben.",
@@ -126,5 +126,5 @@
   "DIA_Sunder_FAQ001_Search_NoWay_Choice": "Ich würde Dima nicht anlügen.",
   "DIA_Sunder_FAQ001_FoundBody_Dead_Choice": "Dir hätte das Gleiche passieren können wie dem Mann, auf den du gewartet hast.",
   "DIA_Sunder_FAQ001_FoundBody_Found_Choice": "Das tut nichts zur Sache. Ich glaube ich habe den Mann gefunden.",
-  "DIA_Sunder_QA401_RightPlace_Here_Sure_Choice": "Du bist dir nichtmal sicher, ob die Tunnel miteinander verbunden sind?"
+  "DIA_Sunder_QA401_RightPlace_Here_Sure_Choice": "Du bist dir nicht mal sicher, ob die Tunnel miteinander verbunden sind?"
 }
