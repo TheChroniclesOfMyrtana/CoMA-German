@@ -68,7 +68,7 @@
   "PRINT_AlchemyRecipeName": "Rezept",
   "PRINT_CookingRecipeName": "Rezept",
   "PRINT_Recipe_Ingredients": "Zutaten:",
-  "PRINT_Recipe_ItemDetails": "Merkmale: ",
+  "PRINT_Recipe_ItemDetails": "Beschreibung: ",
   "PRINT_Recipe_RequireSmith": "Schmieden erforderlich: ",
   "PRINT_Recipe_RequireFletchery": "Bogenbau erforderlich: ",
   "PRINT_Recipe_RequireAlchemy": "Alchemie erforderlich: ",
