@@ -384,7 +384,7 @@
   "PRINT_WrongSide": "Das ist die falsche Seite",
   "PRINT_MissingItem": "Mir fehlt der entsprechende Gegenstand: ",
   "PRINT_AnotherUser": "Das wird gerade benutzt",
-  "PRINT_NoPicklockTalent": "Dafür habe ich kein Talent",
+  "PRINT_NoPicklockTalent": "Das kann ich noch nicht",
   "PRINT_NOTHINGTOGET": "Da ist nichts zu holen ...",
   "PRINT_NOTHINGTOGET02": "Nichts zu holen ...",
   "PRINT_NOTHINGTOGET03": "Nichts zu plündern ...",
