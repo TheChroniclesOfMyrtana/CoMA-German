@@ -1,9 +1,9 @@
 ﻿{
   "DIA_Lea_Q102_Hello_15_00": "Geht's dir gut?",
-  "DIA_Lea_Q102_Hello_09_01": "Ja. Ich denke schon. Danke, aber ... Du solltest besser gehen, bevor ...",
+  "DIA_Lea_Q102_Hello_09_01": "Ja. Ich denke schon. Danke, aber ... du solltest besser gehen, bevor ...",
   "DIA_Lea_Q102_Hello_15_02": "Bevor?",
   "DIA_Lea_Q102_Hello_09_03": "Bevor ... Ich nervös werde!",
-  "DIA_Lea_Q102_Hello_09_04": "Ich glaube ich habe dir bereits gesagt, dass ich nicht mit Personen wie dir rede!",
+  "DIA_Lea_Q102_Hello_09_04": "Ich glaube, ich habe dir bereits gesagt, dass ich nicht mit Personen wie dir rede!",
   "DIA_Lea_Q102_Hello_15_05": "Ich habe nur gefragt. Du musst nicht direkt gemein werden.",
   "DIA_Lea_Q104_RikProblem_15_01": "Wie geht's?",
   "DIA_Lea_Q104_RikProblem_09_02": "Wie geht's? WIE ES MIR GEHT?!",
@@ -12,7 +12,7 @@
   "DIA_Lea_Q104_RikProblem_09_05": "Und der Schlimmste von allen ist Rik. Wenn er sich das nächste Mal an mich ranmacht, bekommt er einen kräftigen Tritt in die Kronjuwelen!",
   "DIA_Lea_Q104_RikProblem_15_06": "Soweit ich weiß, sind unsere Probleme mit den Dorfbewohnern bald vorbei.",
   "DIA_Lea_Q104_RikProblem_09_07": "Warum? Gehst du in die Stadt? Brauchst du vielleicht einen Begleiter?",
-  "DIA_Lea_Q104_RikProblem_15_08": "Im Moment nicht aber der Älteste wird uns schützen, wenn wir anfangen zu arbeiten.",
+  "DIA_Lea_Q104_RikProblem_15_08": "Im Moment nicht, aber der Älteste wird uns schützen, wenn wir anfangen zu arbeiten.",
   "DIA_Lea_Q104_RikProblem_09_09": "Ich und arbeiten?! Vielleicht ist das gar keine so schlechte Idee, aber ... Ich werde mich nicht sicher fühlen, solange dieses Schwein mich anstarrt!",
   "DIA_Lea_Q104_SolvedProblem_15_01": "Rik wird dir keinen Ärger mehr bereiten.",
   "DIA_Lea_Q104_SolvedProblem_09_02": "Danke, aber ich fürchte, sobald er wieder bei Sinnen ist, dass alles wieder beim Alten ist.",
@@ -33,7 +33,7 @@
   "DIA_Lea_GQ001_WhereIsJorn_15_07": "Hast du gesehen, wo sie hingegangen sind?",
   "DIA_Lea_GQ001_WhereIsJorn_09_08": "Ich habe keine Ahnung. Es war spät und es fing an zu regnen und ich bin ihnen nur auf dem Weg zum Gasthaus begegnet.",
   "DIA_Lea_GQ001_WhereIsJorn_15_09": "Kannst du dich an etwas Ungewöhnliches in dieser Nacht erinnern?",
-  "DIA_Lea_GQ001_WhereIsJorn_09_10": "Eigentlich war es ein Abend wie jeder andere auch, abgesehen von dem Regenguss.",
+  "DIA_Lea_GQ001_WhereIsJorn_09_10": "Eigentlich war es ein Abend, wie jeder andere auch, abgesehen von dem Regenguss.",
   "DIA_Lea_GQ001_WhereIsJorn_09_11": "Ich ging spazieren, aber als es anfing zu regnen, ging ich wieder hinein um mich am Kamin aufzuwärmen.",
   "DIA_Lea_GQ001_WhereIsJorn_15_12": "Danke für deine Hilfe."
 }
