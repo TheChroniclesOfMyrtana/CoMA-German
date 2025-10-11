@@ -1338,7 +1338,7 @@
   "LOG_PQ105_Start": "Hershlik hat mich mit einer neuen Aufgabe betraut. Ich soll ihm drei teilweise verdaute Flussmyrten liefern, die ich in den Mägen von Schlammbeißern finden kann.",
   "LOG_PQ105_Success": "Hershlik war mit den gelieferten Pflanzen zufrieden und hofft, dass ich so lange wie möglich für ihn arbeite.",
   "LOG_PQ105_GotMirt": "Ich habe drei fast verdaute Flussmyrten aus den Mägen der Schlammbeißer gezogen. Zeit, sie zu Hershlik zu bringen.",
-  "LOG_PQ105_VZ_Fail": "Jetzt ist nicht der richtige Zeitpunkt, um Myrte zu pflücken.",
+  "LOG_PQ105_VZ_Fail": "Jetzt ist nicht der richtige Zeitpunkt, um Flussmyrte zu pflücken.",
   "LOG_PQ106_Start_V1": "Frida ist offen für meinen Vorschlag, für sie zu arbeiten. Zunächst muss ich ihr beweisen, dass ich ein Bürger bin. Wenn nur alles im Leben so einfach wäre ...",
   "LOG_PQ106_Start_V2": "Lehrling in Archolos: Bogner\\nFrida ist offen für meinen Vorschlag, ihr Lehrling zu werden. Zunächst muss ich ihr beweisen, dass ich ein Bürger bin. Wenn nur alles im Leben so einfach wäre ...",
   "LOG_PQ106_Finish_V1": "Es stellt sich heraus, dass Frida Alice nicht mag. Sie findet es gut, dass ich im Laden ihrer Rivalin für Chaos gesorgt habe und will mich deshalb unbedingt als Lehrling einstellen.",
