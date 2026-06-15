@@ -172,7 +172,7 @@
   "DIA_Odgar_PQ108_Finish_Dead_15_03": "Das Gelände war extrem ungünstig.",
   "DIA_Odgar_PQ108_Finish_Dead_03_04": "Schade um den Kerl. Ich hatte gehofft, er würde mir etwas Interessanteres bringen. Weißt du was? Behalte den Bauplan, nach all dem könnte ich die Waffe nicht mehr schmieden.",
   "DIA_Odgar_PQ108_Finish_Dead_03_05": "Und hier ist etwas zur Belohnung, vielleicht kannst du selbst versuchen eine herzustellen?",
-  "DIA_Odgar_PQ108_Finish_Gold_15_01": "Genau 1000 Goldstücke.",
+  "DIA_Odgar_PQ108_Finish_Gold_15_01": "Genau 1.000 Goldstücke.",
   "DIA_Odgar_PQ108_Finish_Gold_03_02": "Er hat sogar den Preis erhöht, weil er gesehen hat, dass ich mich sehr dafür interessiere.",
   "DIA_Odgar_PQ108_Finish_Gold_15_03": "Aber ich werde mein Wort halten. Hier ist dein Gold. Ich bin froh, dass du die Sache klären konntest. Das wird eine schöne Klinge!",
   "DIA_Odgar_Canyoutrainme_03_04": "Oh und ich bringe meinen Lehrlingen das Schmieden von Waffen bei. Wenn ich jemanden finde, der geschickt ist, kann er mir in der Schmiede viel Arbeit abnehmen.",
@@ -221,7 +221,7 @@
   "DIA_Odgar_FMQ002_Smithing_Yes_V2_Choice": "Hier. (Gib Bier)",
   "DIA_Odgar_FMQ002_Smithing_Yes_AllBeer_Choice": "Hier. (Gib 50 Gold und ein Bier)",
   "DIA_Odgar_PQ108_Finish_Dead_Choice": "Nichts, der Typ war tot.",
-  "DIA_Odgar_PQ108_Finish_Gold_Choice": "Genau 1000 Goldstücke.",
+  "DIA_Odgar_PQ108_Finish_Gold_Choice": "Genau 1.000 Goldstücke.",
   "DIA_Odgar_IHaveWeapon_Basic_Choice": "Einfache Waffen",
   "DIA_Odgar_IHaveWeapon_Solid_Choice": "Edle Waffen",
   "DIA_Odgar_IHaveWeapon_Master_Choice": "Meisterhafte Waffen"
