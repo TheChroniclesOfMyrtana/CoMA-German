@@ -129,8 +129,8 @@
   "DIA_Candac_SQ508_JobForYou_03_04": "Junge, ich muss meinen Glauben zurückgewinnen und nicht einen Friedhof von Feldräubern säubern. Ich bin sicher, dass du diese Aufgabe leicht allein bewältigen kannst.",
   "DIA_Candac_SQ508_AboutGraveyard_15_01": "Wegen des Friedhofs ...",
   "DIA_Candac_SQ508_AboutGraveyard_03_02": "Kommst du schon wieder damit an? Ich denke, ich habe dir meine Meinung dazu schon gesagt.",
-  "DIA_Candac_SQ508_AboutGraveyard_Allow_15_01": "Du willst also einfach zulassen, dass eine Statue von Innos geschändet wird?",
-  "DIA_Candac_SQ508_AboutGraveyard_Allow_03_02": "Auf dem Friedhof ist ein Schrein Innos? Aber das hier ist das Kloster der Wassermagier!",
+  "DIA_Candac_SQ508_AboutGraveyard_Allow_15_01": "Du willst also einfach zulassen, dass ein Innos-Schrein geschändet wird?",
+  "DIA_Candac_SQ508_AboutGraveyard_Allow_03_02": "Auf dem Friedhof ist ein Schrein Innos'? Aber das hier ist das Kloster der Wassermagier!",
   "DIA_Candac_SQ508_Sign_15_01": "Vielleicht ist das das Zeichen, auf das du gewartet hast?",
   "DIA_Candac_SQ508_Sign_03_02": "Du könntest Recht haben, lass uns gehen!",
   "DIA_Candac_SQ508_Sign_15_03": "Triff mich nachts vor dem Friedhofseingang, denn dann fangen die seltsamen Geräusche an.",
@@ -169,6 +169,6 @@
   "DIA_Candac_Ambient_03_07": "Seit du mir geholfen hast, ist es viel besser. Ich bin dir sehr dankbar dafür.",
   "DIA_Candac_SQ508_What_Wounded_Choice": "Ich bin schwer verwundet worden. Die Magier versuchen, mir zu helfen.",
   "DIA_Candac_SQ508_What_WasWounded_Choice": "Ich wurde schwer verwundet. Die Magier haben mir geholfen.",
-  "DIA_Candac_SQ508_AboutGraveyard_Allow_Choice": "Du willst also einfach zulassen, dass eine Statue von Innos geschändet wird?",
+  "DIA_Candac_SQ508_AboutGraveyard_Allow_Choice": "Du willst also einfach zulassen, dass ein Innos-Schrein geschändet wird?",
   "DIA_Candac_Q509_Question_Prepare_Choice": "Ich bereite mich auf eine Expedition vor ..."
 }
