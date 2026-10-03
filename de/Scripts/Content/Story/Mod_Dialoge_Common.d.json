@@ -59,7 +59,7 @@
   "DIALOG_CheckGullet": "(Speiseröhre untersuchen)",
   "DIALOG_CheckFloorUnderBody": "(Boden unter der Leiche untersuchen)",
   "DIALOG_SmellStew": "(Am Eintopf riechen)",
-  "DIALOG_UpgradeArmor": "(Rüstung verbessern - +7 auf jeden Wert pro Verbesserung)",
+  "DIALOG_UpgradeArmor": "(Rüstung verbessern: +7 auf jeden Wert)",
   "DIALOG_PayToShutVolkerSpeakers": "(Bezahlen, um Volkers Ausrufer loszuwerden)",
   "DIALOG_GiveBoarMeat": "(Rohes Keilerfleisch geben)",
   "DIALOG_Provisions200G": "(200 Gold für Proviant bezahlen)",
